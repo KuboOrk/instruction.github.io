@@ -1,18 +1,18 @@
 # Порядок исправления слайдов текста песни
 
 1. При необходимости пересохранить файл презентации с расширением ***.pptx**:<br />
-   ![pptx20xx file save as](https://kuboork.github.io/instruction.github.io/slides/imgs/pptx20xx_file_save_as.jpg) <br />
-   ![pptx20xx file save pptx](https://kuboork.github.io/instruction.github.io/slides/imgs/pptx20xx_file_save_pptx.jpg)
+   ![pptx20xx file save as](./imgs/pptx20xx_file_save_as.jpg) <br />
+   ![pptx20xx file save pptx](./imgs/pptx20xx_file_save_pptx.jpg)
 2. Т.к. у нас телевизор формата **16:9**, то необходимо делать вывод текста без искажений:
     - Для **MS Office 2013** и выше:<br />
-      ![pptx2013 16 9](https://kuboork.github.io/instruction.github.io/slides/imgs/pptx2013_16.9.jpg)
+      ![pptx2013 16 9](./imgs/pptx2013_16.9.jpg)
     - Для **MS Office 2010**:<br />
-      ![pptx2010 16 9](https://kuboork.github.io/instruction.github.io/slides/imgs/pptx2010_16.9.jpg)
+      ![pptx2010 16 9](./imgs/pptx2010_16.9.jpg)
 3. Затем необходимо растянуть область ввода текста на весь слайд:<br />
-   ![pptx20xx full text](https://kuboork.github.io/instruction.github.io/slides/imgs/pptx20xx_full_text.jpg)
+   ![pptx20xx full text](./imgs/pptx20xx_full_text.jpg)
    а также удалить лишние переносы строк, пробелы и другие элементы (как в начале текста слайда, так и в конце),
    не относящиеся к тексту песни:<br />
-   ![pptx20xx before remove empty](https://kuboork.github.io/instruction.github.io/slides/imgs/pptx20xx_before_remove_empty.jpg)
+   ![pptx20xx before remove empty](./imgs/pptx20xx_before_remove_empty.jpg)
    **Внимание!** Если область текста не растягивается, то необходимо настроить текстовое поле следующим образом:
     - Правой кнопкой мыши щёлкаем по краю текстового поля и выбираем **Формат фигуры...**
       ![pptx20xx_text_field_format](./imgs/pptx20xx_text_field_format.jpg)
