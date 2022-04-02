@@ -1,5 +1,14 @@
 ﻿# Порядок взаимодействия между друг другом посредством Google-таблицы
 
+## Адреса материалов, встречающихся в тексте:
+
+- [Исходная папка с файлами](https://disk.yandex.ru/d/bHBqkWu96JfheQ).
+- [Конечная папка с файлами](https://disk.yandex.ru/d/ReiOkqfXS3DXiw).
+- [Инструкция по работе со слайдами](./slide_editing.md)
+- [Рабочая google-таблица](https://docs.google.com/spreadsheets/d/1X98t5UnKPlcsj7Vc_KmZmoFBhndB0eH32p9lJVMdum4/edit#gid=0)
+
+## Порядок работы
+
 Для синхронизации действий тех, кто будет исправлять слайды создана специальная таблица со всеми именами файлов, которые
 находятся в папке **Слайды**.
 ![g-table_view](./imgs/g-table_view.jpg)
