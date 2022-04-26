@@ -44,6 +44,22 @@
    <br />
    ![pptx20xx before remove empty](./imgs/pptx20xx_before_remove_empty.jpg)
    <br /><br />
+0. Если текст отцентрирован, но всё ещё смещён:
+   ![pptx20xx_text_not_center](./imgs/pptx20xx_text_not_center.jpg)
+   <br />
+   то скорей всего так настроены отступы абзаца.
+   <br />
+   Чтобы исправить это нужно:
+    - Нажать `Правую кнопку мыши`, выбрать пункт контекстного меню `Абзац...`:
+      <br />
+      ![pptx20xx_paragraph](./imgs/pptx20xx_paragraph.jpg)
+    - Установить интервалы **Перед** и **После** в значение `0`:
+      <br />
+      ![pptx20xx_paragraph_interval](./imgs/pptx20xx_paragraph_interval.jpg)
+    - Нажать `ОК`:
+      <br />
+      ![pptx20xx_paragraph_total](./imgs/pptx20xx_paragraph_total.jpg)
+      <br /><br />
 0. Последний слайд лучше выделять стилем **_жирный + курсив_** для понимания, когда надо заканчивать исполнение
    <br /><br />
 0. После всех исправлений нужно проверить текст песни на ошибки (орфографические, пунктуационные и т.д.), при
